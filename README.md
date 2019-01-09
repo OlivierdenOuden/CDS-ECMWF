@@ -60,7 +60,7 @@ EDA = 0.68/0.68 degrees
 
 ### Code
 
-In the src folder there are two scripts, based on examples on https://confluence.ecmwf.int/display/CKB/How+to+download+ERA5+data+via+the+ECMWF+Web+API. One script for downloading an entire day (hourly) HRES data (sp/2tr/10u/10v). The other to download and entire day (3hr resolution) of EDA data.
+In the src-ECMWF folder there are two scripts based on https://confluence.ecmwf.int/display/CKB/How+to+download+ERA5+data+via+the+ECMWF+Web+API. In the src-CDS folder there are two scripts based on https://cds.climate.copernicus.eu/#!/home. One script for downloading an entire day (hourly) HRES data (sp/2tr/10u/10v). The other to download and entire day (3hr resolution) of EDA data. I recommend to use CDS database.
 
 ### VirtualBox - Linux
 
