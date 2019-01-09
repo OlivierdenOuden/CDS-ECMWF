@@ -62,6 +62,6 @@ EDA = 0.68/0.68 degrees
 
 In the src folder there are two scripts, based on examples on https://confluence.ecmwf.int/display/CKB/How+to+download+ERA5+data+via+the+ECMWF+Web+API. One script for downloading an entire day (hourly) HRES data (sp/2tr/10u/10v). The other to download and entire day (3hr resolution) of EDA data.
 
-### VirtualBox
+### VirtualBox - Linux
 
-In the VBox folder a link to 
+When there is trouble downloading/using the scripts, a VirtualBox can be used. I created a VirtualBox which works, when intressted contact me.
