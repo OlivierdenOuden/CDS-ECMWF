@@ -19,7 +19,7 @@ Log in, and recieve the API-key. Store this key in the file $HOME/.cdsapirc (in 
 
 Besides a new API-key, also a software update/CDS software is required. To do, run in terminal:
 
-<font color=red>**.pip install cdsapi.**</font>
+<font color=red>**pip install cdsapi**</font>
 
 ### Download data
 
