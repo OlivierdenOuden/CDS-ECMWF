@@ -19,7 +19,7 @@ Log in, and recieve the API-key. Store this key in the file $HOME/.cdsapirc (in 
 
 Besides a new API-key, also a software update/CDS software is required. To do, run in terminal:
 
-<font color=red>pip install cdsapi</font>
+<font color=red>**.pip install cdsapi.**</font>
 
 ### Download data
 
@@ -30,18 +30,6 @@ Now everything is updated and the API-key is stored, we can start changing the o
 The variables do not change, same names!
 
 https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation  
- 
-
-|Name Parameter|Units|Short name|
-|--|-------------------------------|
-|Sea tempreture |K|sst|
-|Air temperature (2m) |K|2t|
-|Wind u speed (10m)|m s**-1|10u|
-|Wind v speed (10m)|m s**-1|10v|
-|Wind u speed (100m)|m s**-1|100u|
-|Wind v speed (100m)|m s**-1|100v|
-|Pressure|Pa|sp|
-|Humidity|kg kg**-1|q|
 
 #### Product type
 
