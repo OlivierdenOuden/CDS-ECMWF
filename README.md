@@ -1,17 +1,13 @@
 # CDS-ECMWF ERA5 
 
-The ECMWF ERA5 database has migrated to the Climate data store, CDS https://cds.climate.copernicus.eu/#!/home. To download ERA5 data a couple of steps need te be taken before.
-
 ### Install cds - key
 
-Since the database migrated, we have to move with them. Meaning we need a new API-key to request the data. Also some software updates and script modifications are needed:
+We need a new API-key to request the data. Also some software updates and script modifications are needed:
 
 1. Create account:
 https://cds.climate.copernicus.eu/#!/home 
-Since ECMWF migrated the database we need an account for this database, and thus an account.
 2. Agree licence:
 https://cds.climate.copernicus.eu/api-how-to 
-Link the account to the licence of agreement.
 3. Create API:
 Log in, and recieve the API-key. Store this key in the file $HOME/.cdsapirc (in your Unix/Linux environment). 
 
@@ -23,12 +19,7 @@ Besides a new API-key, also a software update/CDS software is required. To do, r
 
 ### Download data
 
-Now everything is updated and the API-key is stored, we can start changing the original script and get acces to the ECMWF database!
-
-#### Variables
-
-The variables do not change, same names!
-
+Variables:
 https://software.ecmwf.int/wiki/display/CKB/ERA5+data+documentation  
 
 #### Product type
